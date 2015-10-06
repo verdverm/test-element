@@ -1,0 +1,38 @@
+{
+  "name": "test-element",
+  "authors": [
+    "Anonymous <verdverm@gmail.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "test"
+  ],
+  "main": "test-element.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/verdverm/test-element/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "7bf0192098",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "7bf01920983c52ef3947c8f5f6fa7ef021329a54"
+  },
+  "_source": "git://github.com/verdverm/test-element.git",
+  "_target": "master",
+  "_originalSource": "verdverm/test-element",
+  "_direct": true
+}
